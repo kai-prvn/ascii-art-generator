@@ -4,7 +4,7 @@ Convert images into text-based ASCII art with multiple visual styles.
 
 ## Overview
 
-Upload any image and convert it to ASCII art using different character sets. Built this in Google Colab because ASCII art is cool and I wanted to see how it works.
+Upload any image and convert it to ASCII art using different character sets. Built this in Google Colab also ASCII art is cool and I wanted to see how it works.
 
 ## Features
 
@@ -32,7 +32,7 @@ Upload any image and convert it to ASCII art using different character sets. Bui
 
 ## Technologies
 
-- Python 3.x
+- Python 
 - PIL/Pillow for image processing
 - matplotlib for visualization
 - Google Colab for runtime
